@@ -4,6 +4,12 @@
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     <script src="https://www.youtube.com/iframe_api"></script>
+    <script>
+        function playerSeekTo(playerID, seconds) {
+          player = new YT.Player('youtube-video');
+          player.seekTo(seconds);
+        }
+    </script>
     {% include meta.html %}
 
     <!--[if lt IE 9]>
