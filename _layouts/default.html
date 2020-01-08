@@ -6,7 +6,9 @@
     <script src="https://www.youtube.com/iframe_api"></script>
     <script>
         function playerSeekTo(playerID, seconds) {
+          console.log(playerID);
           player = new YT.Player(playerID);
+          console.log(player);
           player.seekTo(seconds);
         }
     </script>
