@@ -1,0 +1,20 @@
+---
+layout: post
+title: Salsa 7
+---
+
+<iframe id="zajecia7" width="560" height="315" src="https://www.youtube.com/embed/z6BuS1kg4R0?enablejsapi=1&origin=https://mnocon.github.io" frameborder="0" enablejsapi="1" allowfullscreen></iframe>
+
+<ul>
+
+<li><a href="#" onclick="playerSeekTo('zajecia7', 10); return false;">0:10 - Prawa ręka na bark🙃</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 20); return false;">0:20 - Prawa ręka na bark🙃 i enszufla</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 30); return false;">0:30 - Lateral</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 43); return false;">0:43 - Przeprowadzenie</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 49); return false;">0:49 - Na 3 lewa ręka, obrót partnerki i gancio</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 70); return false;">1:10 - El uno</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 92); return false;">1:22 - Benjamin</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 97); return false;">1:37 - Abrazo Cubano</a>  </li>
+<li><a href="#" onclick="playerSeekTo('zajecia7', 110); return false;">1:50 - Directo</a>  </li>
+
+</ul>
