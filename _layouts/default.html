@@ -7,9 +7,9 @@
     <script>
         function playerSeekTo(playerID, seconds) {
           console.log(playerID);
-          player = new YT.Player(playerID);
+          var player = new YT.Player(playerID);
           console.log(player);
-          player.seekTo(seconds);
+          player.seekTo(seconds, true);
         }
     </script>
     {% include meta.html %}
