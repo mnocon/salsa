@@ -7,6 +7,7 @@
     <script>
         function playerSeekTo(playerID, seconds) {
           callPlayer(playerID, 'seekTo', [seconds, true]);
+          callPlayer(playerID, "playVideo");
         }
     /**
      * @author       Rob W <gwnRob@gmail.com>
